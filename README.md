@@ -33,5 +33,5 @@
 Скомпилировать и запустить можно в любой среде C++ (Windows):
 
 ```bash
-g++ -o students main.cpp
+g++ -o students Homework.cpp
 students.exe

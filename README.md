@@ -34,4 +34,4 @@
 
 ```bash
 g++ -o students Homework.cpp
-students.exe
+Homework.exe
